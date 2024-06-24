@@ -1,0 +1,19 @@
+.Titulo-Login{
+    text-align: center;
+}
+
+.form-control {
+    width: 100%; /* Ajuste este valor para alterar a largura dos campos de entrada */
+}
+
+.cp_login{
+    text-align: center;
+}
+
+.btn-link{
+    margin-right: 148px;
+}
+
+.btn-info{
+    margin-left: 148px;
+}
